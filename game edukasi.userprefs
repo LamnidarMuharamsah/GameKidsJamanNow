@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\LoadingBarScript.cs">
+    <Files>
+      <File FileName="Assets\script\ButtonAction.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\ScaneManagement.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\Soal.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\timer\myTimerSkor0.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\timer\myTimerSkor30.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\timer\myTimerSkor40.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\timer\myTimerSkor50.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\timer\myTimerSkor60.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\timer\myTimerSkor70.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\timer\myTimerSkor80.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\timer\myTimerSkor90.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\timer\myTimerSkor20.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\LoadingBarScript.cs" Line="23" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
